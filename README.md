@@ -3,7 +3,8 @@
 👋 Hi, I’m Aynur Ahmadova
 Manual QA Engineer with 5+ years of experience in testing web, mobile, and API-based applications across banking, fintech, e-government, and gaming domains.
 I specialize in manual testing, test documentation, bug reporting, and API testing, with a strong focus on product quality, usability, and business requirements.
-📍 Location: Estonia 📧 Email: aynurakhmeedova@gmail.com
+Focused on testing casino and betting platforms with strong attention to gameplay logic, API reliability, and user experience.
+
 
 🧪 Professional Experience Summary
 * Strong background in Manual Regression, Functional, Integration, System, Smoke, Sanity, and UAT testing
@@ -12,6 +13,9 @@ I specialize in manual testing, test documentation, bug reporting, and API testi
 * Advanced bug reporting and defect lifecycle management using Jira
 * Close collaboration with developers, product managers, business analysts, and clients
 * Experience working in Agile / Scrum environments
+* Casino games & gaming platforms
+* Betting flows & balance logic
+* User journeys: registration, deposits, gameplay, payouts
 
 🛠️ Skills & Tools
 Testing
