@@ -1,4 +1,4 @@
-# Aynur-qa-lab
+# QA Portfolio
 
 👋 Hi, I’m Aynur Ahmadova
 Manual QA Engineer with 5+ years of experience in testing web, mobile, and API-based applications across banking, fintech, e-government, and gaming domains.
